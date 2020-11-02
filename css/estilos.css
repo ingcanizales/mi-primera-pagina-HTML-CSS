@@ -1,0 +1,19 @@
+body{
+    /*background-color: rgb(0, 140, 255);*/
+    background-color: #0000003a;
+}
+h1{
+    color: bold(175, 170, 250, 0.541);
+    font-size: 40px;
+    font-style: italic;
+    font-weight:bold ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color: bold(175, 170, 250, 0.541);
+    font-size: 20px;
+    font-style: italic;
+    font-weight:bold ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
